@@ -1,0 +1,25 @@
+.containerHome {
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.autoBox {
+  width: 20vw;
+  text-align: center;
+  background-color: rgb(62, 67, 69);
+  color: white;
+  padding: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+.links {
+  color: rgb(207, 203, 203);
+  text-decoration: none;
+  font-size: 20px;
+}
